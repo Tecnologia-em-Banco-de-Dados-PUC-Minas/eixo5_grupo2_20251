@@ -19,7 +19,7 @@ Além da classificação de sentimentos, o projeto inclui a extração de tópic
 
 
 ## Orientador
-* Nome completo do professor 1
+* Cristiano Geraldo Teixeira Silva.
 
 # Documentação
 
