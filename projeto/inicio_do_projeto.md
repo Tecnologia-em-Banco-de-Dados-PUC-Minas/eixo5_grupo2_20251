@@ -1,12 +1,12 @@
 # Etapa 01: Definicao do Problema
 
-## 1 📖 Introdução 
+## 1 Introdução 
 
 No cenário altamente competitivo do e-commerce, a satisfação do cliente é um fator decisivo para o sucesso de qualquer negócio. As avaliações e comentários dos consumidores constituem uma fonte essencial de informações sobre produtos e serviços, oferecendo feedback direto sobre a experiência de compra. No entanto, muitas empresas enfrentam dificuldades para processar e analisar esse grande volume de dados, o que compromete a extração de insights valiosos para a otimização de vendas e aprimoramento da experiência do usuário. 
 
 Para superar esse desafio, é fundamental adotar soluções tecnológicas que permitam a análise eficiente desses dados. O uso de Machine Learning e Processamento de Linguagem Natural (NLP) possibilita a classificação automática dos comentários dos clientes, permitindo a identificação de padrões e tendências de satisfação. Dessa forma, as empresas podem tomar decisões estratégicas baseadas em dados concretos, fortalecendo sua reputação e impulsionando suas vendas. 
 
-## 2 ⚠️ Problema 
+## 2 Problema 
 
 As avaliações e comentários dos clientes no e-commerce são fontes valiosas de informações sobre a percepção dos produtos. No entanto, muitas empresas não utilizam esses dados de maneira estratégica devido a diversos desafios: 
 
@@ -20,17 +20,17 @@ A falta de uma análise estruturada pode impactar negativamente as vendas, a rep
 
 Assim, o problema central reside na dificuldade de processar e utilizar os comentários dos clientes para aprimorar a experiência de compra e impulsionar os resultados do negócio. 
 
-## 3 📝Contexto 
+## 3 Contexto 
 
 Para enfrentar esse desafio, utilizaremos um conjunto de dados fictícios fornecido pelo Kaggle, que contém uma ampla variedade de comentários e avaliações de produtos de diferentes e-commerces. Esse banco de dados nos permitirá realizar testes, treinar modelos de Machine Learning e validar os resultados de maneira eficiente e realista, garantindo a confiabilidade das análises e a aplicabilidade do sistema desenvolvido. 
 
-## 4 🎯 Objetivos 
+## 4 Objetivos 
 
-### 4.1 🌍 Objetivo Geral 
+### 4.1 Objetivo Geral 
 
 Desenvolver um sistema baseado em Machine Learning para classificar automaticamente os comentários dos clientes como positivos, negativos ou neutros, gerando insights estratégicos para otimizar as vendas e aprimorar a experiência do usuário. 
 
-### 4.2 📍 Objetivos Específicos  
+### 4.2 Objetivos Específicos  
 
 - Simular Ambiente de Dados: 
 Simular o ambiente de coleta e armazenamento de dados de e-commerces brasileiros com base em dataset disponibilizado no Kaggle. 
