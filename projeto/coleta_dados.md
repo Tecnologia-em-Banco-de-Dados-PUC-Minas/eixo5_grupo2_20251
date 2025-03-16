@@ -1,7 +1,7 @@
 
 ## 5 Arquitetura do Projeto
 
-O projeto simulará um ambiente de lakehouse utilizando a Arquitetura Medallion, um padrão de design voltado para a organização eficiente dos dados.
+O projeto simulará um ambiente de lakehouse utilizando a Arquitetura Medallion, um padrão de design voltado para a organização progressiva dos dados.
 
 ![building-data-pipelines-with-delta-lake-120823](https://github.com/user-attachments/assets/3a04443b-44d9-43fc-9103-7c8d894bfe22)
 Medallion Archicture disponivel em https://www.databricks.com/glossary/medallion-architecture
