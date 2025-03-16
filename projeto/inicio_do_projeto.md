@@ -50,43 +50,6 @@ Treinar modelos para análise de sentimentos em comentários, classificando-os c
 - Monitoramento Contínuo: 
 Acompanhar desempenho dos modelos e ajustá-los conforme novos dados são coletados. 
 
----
-## 5 📌 Origem dos Dados  
-
-Os conjuntos de dados utilizados foram extraídos do [Kaggle](https://www.kaggle.com/), uma plataforma voltada para a comunidade de cientistas de dados e analistas, onde diversos datasets são disponibilizados para estudo e desenvolvimento de modelos. No entanto, todos os dados utilizados neste projeto são **fictícios e não representam informações reais de indivíduos, organizações ou eventos. 
-
----
-## 5.1 🔐 Segurança e Proteção de Dados  
-
-Este projeto segue boas práticas de segurança no tratamento de dados. Como os dados são **sintéticos**, não há risco de exposição de informações sensíveis ou pessoais.  
-
-Entretanto, destacamos que, em aplicações reais, a proteção dos dados deve ser tratada com seriedade, adotando medidas como:  
-
-- **Criptografia** de informações sensíveis;  
-- **Controle de acesso** para evitar manipulação indevida;  
-- **Anonimização e pseudonimização** para proteger a identidade dos titulares;  
-- **Armazenamento seguro** de dados, utilizando servidores confiáveis e protegidos.
- 
----
-## 5.4 📜 Conformidade com a Lei Geral de Proteção de Dados (LGPD)  
-
-Este projeto está alinhado com a **Lei nº 13.709/2018 - Lei Geral de Proteção de Dados Pessoais (LGPD)**, que regulamenta o tratamento de dados pessoais no Brasil.  
-Mesmo utilizando **dados fictícios**, reforçamos a importância de seguir as diretrizes da LGPD ao manipular informações reais, garantindo: 
-
----
-### 5.5 🔍 Princípios da LGPD  
-
-1. **📌 Base legal para tratamento de dados**: Toda coleta e uso de dados pessoais devem ser baseados em um fundamento legal adequado, como consentimento do titular ou legítimo interesse.  
-2. **🔍 Transparência**: O titular dos dados tem o direito de saber como suas informações estão sendo utilizadas.  
-3. **🎯 Finalidade específica**: Os dados devem ser coletados e utilizados apenas para propósitos previamente informados e legítimos.  
-4. **⚖ Necessidade e proporcionalidade**: Apenas os dados estritamente necessários devem ser coletados e processados.  
-5. **🛡 Segurança**: Medidas de proteção devem ser implementadas para evitar acessos indevidos, vazamentos ou perdas de dados.  
-6. **✅ Direitos dos titulares**: Os indivíduos podem solicitar acesso, correção, portabilidade, anonimização ou exclusão de seus dados.
- 
----
-## 🔗 Mais Informações  
-
-📌 Para saber mais sobre a **Lei Geral de Proteção de Dados**, acesse o [Portal Oficial do Governo](https://www.gov.br/governodigital/pt-br/lgpd).  
  
 
 
