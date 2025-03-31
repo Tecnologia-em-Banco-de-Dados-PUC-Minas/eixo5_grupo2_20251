@@ -57,7 +57,7 @@ Acompanhar desempenho dos modelos e ajustá-los conforme novos dados são coleta
 
 A Etapa 3 tem como objetivo descrever as ferramentas utilizadas no processo de pré-processamento e justificar as escolhas com base nas necessidades do projeto e nas características de cada uma.
 
-### 7.2.Ferramentas Utilizadas:
+### 7.2 Ferramentas Utilizadas:
 
 -	Python:
 A linguagem de programação principal escolhida devido ao seu vasto ecossistema de bibliotecas para análise de dados e Machine Learning. Python é altamente eficiente para manipulação e processamento de grandes volumes de dados, sendo amplamente utilizada na área de Data Science.
@@ -71,7 +71,7 @@ Utilizada para a normalização e remoção de acentos e caracteres especiais do
 -	Google Colab:
 Ambiente de desenvolvimento utilizado para execução dos scripts e upload/download de arquivos. O Google Colab facilita a execução de código na nuvem e é uma plataforma gratuita, ideal para projetos de análise de dados que envolvem grandes volumes de informações.
 
-### 7.3.Justificativa das Escolhas:
+### 7.3 Justificativa das Escolhas:
 
 -	Python foi escolhido devido à sua versatilidade e poder para realizar operações de análise de dados e Machine Learning. A linguagem é amplamente suportada pela comunidade e possui uma rica coleção de bibliotecas como Pandas e NumPy.
   
