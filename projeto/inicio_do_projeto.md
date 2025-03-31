@@ -93,19 +93,27 @@ A exclusão de colunas desnecessárias é uma prática comum em projetos de data
 	payment_sequential: Sequência do pagamento, uma variável relacionada ao método de pagamento, mas não essencial para identificar sentimentos expressos nos
  comentários.
 
--	OLIST_PRODUCTS:
+- OLIST_PRODUCTS:
 	product_name_length: Comprimento do nome do produto, que não impacta diretamente a análise do sentimento do cliente em relação ao produto.
+
 	product_description_length: Comprimento da descrição do produto, que também não é relevante para avaliar a percepção do cliente.
+
 	product_photos_qty: Quantidade de fotos do produto, que não afeta a opinião expressa nos comentários.
+
 	product_weight_g: Peso do produto, uma característica do produto, mas não essencial para determinar o sentimento dos clientes.
+
 	product_length_cm: Comprimento do produto, outra característica física sem relação direta com a análise de sentimentos.
+
 	product_height_cm: Altura do produto, igualmente não necessária para entender o feedback do cliente.
+
 	product_width_cm: Largura do produto, outra variável física que não influencia a análise dos sentimentos dos consumidores.
 
 - OLIST_SELLERS:
 	seller_zip_code_prefix: Prefixo do código postal do vendedor, não relacionado ao sentimento do cliente, sendo irrelevante para a análise proposta.
-	ORDER_REVIEW:
+
+- ORDER_REVIEW:
  review_answer_timestamp: O timestamp de resposta da avaliação não é relevante para a análise de sentimentos do conteúdo textual dos comentários.
+
  Essas exclusoes permitiram focar apenas nas informações que são diretamente relacionadas à análise de sentimentos e ajudaram a criar um dataset mais enxuto 
  e eficiente para os próximos passos do projeto.
 
