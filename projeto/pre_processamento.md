@@ -1,6 +1,6 @@
 
 ## 7 PRÉ-PROCESSAMENTO DE DADOS
---
+
 ### 7.1 Objetivos da etapa
 
 A Etapa 3 tem como objetivo descrever as ferramentas utilizadas no processo de pré-processamento e justificar as escolhas com base nas necessidades do projeto e nas características de cada uma.
@@ -29,8 +29,10 @@ Ambiente de desenvolvimento utilizado para execução dos scripts e upload/downl
   
 -	Google Colab foi uma escolha estratégica, pois oferece um ambiente de execução gratuito e fácil de usar, com a possibilidade de trabalhar diretamente com arquivos CSV grandes, além de ser uma plataforma acessível para quem não dispõe de infraestrutura própria de servidores.
   
+  ---
+ 	
 ## 8 Colunas Excluídas:
---
+
 Durante o processo de pré-processamento, algumas colunas do dataset foram consideradas desnecessárias para a análise de sentimentos e, portanto, removidas. Essas colunas não traziam informações relevantes para a tarefa em questão, como a análise da polaridade dos comentários dos clientes, e sua exclusão ajudou a simplificar o conjunto de dados, tornando-o mais focado nas variáveis essenciais.
 A exclusão de colunas desnecessárias é uma prática comum em projetos de data science, pois permite otimizar o processamento, reduzir a complexidade e melhorar a performance dos modelos de análise. No caso deste projeto, foram removidas as seguintes colunas:
 
