@@ -29,7 +29,7 @@ Ambiente de desenvolvimento utilizado para execução dos scripts e upload/downl
   
 -	Google Colab foi uma escolha estratégica, pois oferece um ambiente de execução gratuito e fácil de usar, com a possibilidade de trabalhar diretamente com arquivos CSV grandes, além de ser uma plataforma acessível para quem não dispõe de infraestrutura própria de servidores.
 
-O link para os codigos de tratamento estao disponiveis em [link]()
+O link para os codigos de tratamento estao disponiveis em [link](https://github.com/Tecnologia-em-Banco-de-Dados-PUC-Minas/eixo5_grupo2_20251/blob/main/projeto/development/tratamento_silver.ipynb)
   
   ---
  	
@@ -70,7 +70,7 @@ A exclusão de colunas desnecessárias é uma prática comum em projetos de data
  e eficiente para os próximos passos do projeto.
 
 ## 9 Camada GOLD
-Codigo disponivel em [link]()
+Codigo disponivel em [link](https://github.com/Tecnologia-em-Banco-de-Dados-PUC-Minas/eixo5_grupo2_20251/blob/main/projeto/development/gold.ipynb)
 
 - Valores NaN em data: retornar 99/99/9999
 - Valores NaN em campos string: -
