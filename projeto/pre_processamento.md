@@ -69,4 +69,10 @@ A exclusão de colunas desnecessárias é uma prática comum em projetos de data
  Essas exclusoes permitiram focar apenas nas informações que são diretamente relacionadas à análise de sentimentos e ajudaram a criar um dataset mais enxuto 
  e eficiente para os próximos passos do projeto.
 
+## 9 Camada GOLD
+Codigo disponivel em [link]()
+
+- Valores NaN em data: retornar 99/99/9999
+- Valores NaN em campos string: -
+- Valores NaN em campos de id: -
 
