@@ -28,6 +28,8 @@ Ambiente de desenvolvimento utilizado para execução dos scripts e upload/downl
 -	UniCodeData foi crucial para garantir que todos os dados textuais fossem normalizados e limpos, eliminando problemas relacionados a acentuação e caracteres especiais, que poderiam interferir em análises posteriores.
   
 -	Google Colab foi uma escolha estratégica, pois oferece um ambiente de execução gratuito e fácil de usar, com a possibilidade de trabalhar diretamente com arquivos CSV grandes, além de ser uma plataforma acessível para quem não dispõe de infraestrutura própria de servidores.
+
+O link para os codigos de tratamento estao disponiveis em [link]()
   
   ---
  	
