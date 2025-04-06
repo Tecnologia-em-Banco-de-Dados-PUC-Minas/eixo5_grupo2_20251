@@ -70,8 +70,10 @@ A exclusão de colunas desnecessárias é uma prática comum em projetos de data
  e eficiente para os próximos passos do projeto.
 
 ## 9 Camada GOLD
-Codigo disponivel em [link](https://github.com/Tecnologia-em-Banco-de-Dados-PUC-Minas/eixo5_grupo2_20251/blob/main/projeto/development/gold.ipynb)
+Codigo disponivel em [link](https://github.com/Tecnologia-em-Banco-de-Dados-PUC-Minas/eixo5_grupo2_20251/blob/main/projeto/development/gold.ipynb).
+Realizamos a criacao de alguma vizualizacoes de dados e agrupamento de dados afim de otimizar as proximas etapas.
 
+Algumas tratativas aplicadas durante essa etapa:
 - Valores NaN em data: retornar 99/99/9999
 - Valores NaN em campos string: -
 - Valores NaN em campos de id: -
