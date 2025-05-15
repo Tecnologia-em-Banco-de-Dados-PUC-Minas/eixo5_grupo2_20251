@@ -15,6 +15,7 @@ Essa abordagem, apesar de simples, oferece resultados rápidos e interpretáveis
 
 Ao aplicar a função nos dados, foi possível classificar automaticamente os sentimentos expressos nos comentários. Uma amostra dos resultados é apresentada abaixo:
 
+https://github.com/Tecnologia-em-Banco-de-Dados-PUC-Minas/eixo5_grupo2_20251/issues/1#issue-3064573755
 
 ## 10.4 Considerações Finais da Etapa
 A análise de sentimentos mostrou-se eficaz para identificar padrões de satisfação e insatisfação dos clientes. Comentários negativos, por exemplo, estiveram frequentemente relacionados a atrasos na entrega e produtos com defeito, enquanto os positivos destacavam rapidez na entrega e qualidade do atendimento.
