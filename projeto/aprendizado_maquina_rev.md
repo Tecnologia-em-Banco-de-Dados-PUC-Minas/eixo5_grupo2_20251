@@ -7,11 +7,7 @@
 Na Etapa 4, serão realizados diferentes experimentos utilizando mais de um algoritmo de cada abordagem, com o objetivo de obter e comparar distintos resultados. Essa comparação visa identificar a solução mais eficaz para o problema, proporcionando maior compreensão sobre o domínio analisado. Os experimentos realizados, bem como suas análises, deverão ser apresentados e discutidos na documentação do projeto.
 
 ### 10.2 Implementação
-Para a classificação do sentimento dos comentários, utilizou-se a biblioteca TextBlob, que realiza uma análise de polaridade do texto (variando de -1 a 1). A função criada (analisar_sentimento) categorizou os comentários em:
-- Positivo: polaridade > 0.1
-- Negativo: polaridade < -0.1
-- Neutro: polaridade entre -0.1 e 0.1, ou mensagens ausentes/vazias
-Essa abordagem, apesar de simples, oferece resultados rápidos e interpretáveis, adequados para uma primeira análise exploratória.
+O script realiza a análise de sentimentos de avaliações de produtos utilizando aprendizado de máquina em Python. Ele carrega dados do GitHub, pré-processa os textos com o spaCy, classifica os sentimentos (positivo, neutro ou negativo) com base nas notas, e utiliza um pipeline com TfidfVectorizer, SMOTE e LinearSVC para treinar o modelo. Após avaliar o desempenho com métricas como matriz de confusão e relatório de classificação, o script aplica o modelo a todos os dados e exporta os resultados com os sentimentos previstos. Por fim, permite testes manuais de classificação e realiza o upload automático do arquivo final para um repositório no GitHub mediante autenticação com token pessoal.
 
 Essa abordagem, apesar de simples, oferece resultados rápidos e interpretáveis, adequados para uma primeira análise exploratória.
 
