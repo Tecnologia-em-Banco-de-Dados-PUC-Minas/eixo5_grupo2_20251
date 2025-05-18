@@ -12,7 +12,6 @@ O script realiza a análise de sentimentos de avaliações de produtos utilizand
 Essa abordagem, apesar de simples, oferece resultados rápidos e interpretáveis, adequados para uma primeira análise exploratória.
 
 ## 10.3 Resultados
-
 Ao aplicar a função nos dados, foi possível classificar automaticamente os sentimentos expressos nos comentários. Uma amostra dos resultados é apresentada abaixo:
 
 https://github.com/Tecnologia-em-Banco-de-Dados-PUC-Minas/eixo5_grupo2_20251/issues/1#issue-3064573755
