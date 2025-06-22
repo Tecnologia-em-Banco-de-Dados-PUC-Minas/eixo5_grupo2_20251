@@ -30,4 +30,4 @@ Além da classificação de sentimentos, o projeto inclui a extração de tópic
 | ETAPA 3        |[Pré-processamento](projeto/pre_processamento.md) |
 | ETAPA 4        |[Aprendizagem de Máquina](projeto/aprendizado_maquina_rev.md)|
 | ETAPA 5        |[Análise dos Resultados](projeto/analise_de_resultados.md) |
-| ETAPA 6        |[Otimização](projeto/Otimizacao.md) |
+| ETAPA 6        |[Otimização](projeto/Otimização.md) |
