@@ -31,3 +31,7 @@ Além da classificação de sentimentos, o projeto inclui a extração de tópic
 | ETAPA 4        |[Aprendizagem de Máquina](projeto/aprendizado_maquina_rev.md)|
 | ETAPA 5        |[Análise dos Resultados](projeto/analise_de_resultados.md) |
 | ETAPA 6        |[Otimização](projeto/Otimização.md) |
+
+- [Apresentacao](https://github.com/Tecnologia-em-Banco-de-Dados-PUC-Minas/eixo5_grupo2_20251/blob/main/projeto/Grupo%202%20%20-%20Apresenta%C3%A7%C3%A3o%20Final%20E-commerce.pptx)
+- [PowerBI](https://github.com/Tecnologia-em-Banco-de-Dados-PUC-Minas/eixo5_grupo2_20251/blob/main/projeto/E-COMMERCE.pbix)
+
